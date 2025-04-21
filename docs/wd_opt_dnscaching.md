@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-resolver-caching
-Keywords: Caching,Minimum cache time,Maximum cache time
 DocID: 75
+Keywords: Caching,Minimum cache time,Maximum cache time
 ---
 # Options dialog - DNS - Resolver - Caching
 

@@ -1,7 +1,7 @@
 ---
 Slug: event-ids-error-messages
-Keywords: Event IDs,Error messages,Warning messages
 DocID: 18
+Keywords: Event IDs,Error messages,Warning messages
 ---
 # Event IDs / Error Messages
 
@@ -70,7 +70,7 @@ The following are recorded as "Warning events" to the Windows Event Log, and app
 
 - **401 - Lame delegation for \<zone-name\> on this server (\<ip-address\>)**\
     A "Lame delegation" is when a DNS server, which is listed in the domain registration for a domain, is not configured with data for that domain.\
-    "Lame delegation" sometimes happen because someone has registered a domain but only has one or no DNS servers, so they simply specify some random DNS servers to act as place-holders, even though none of these servers have a zone defined for the domain in question. Hence the domain is "lame" without a leg to stand on.\
+    "Lame delegation" sometimes happen because someone has registered a domain but only has one or no DNS servers, so they simply specify some random DNS servers to act as place-holders, even though none of these servers have a zone defined for the domain in question. Hence, the domain is "lame" without a leg to stand on.\
     If you see this message about your own server ("this server"), you should take steps to correct this immediately.\
     If the domain-name in question is not yours, do a WHOIS [look up](wd_lookup.md) to determine the owner, and contact them to change it immediately (they are causing additional traffic on your Internet connection and additional processing for your DNS server ).\
     If the domain-name is yours - [add the zone](wd_newzone.md) to your server immediately.

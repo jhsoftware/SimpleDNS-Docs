@@ -1,7 +1,7 @@
 ---
 Slug: welcome
-Keywords: welcome
 DocID: 110
+Keywords: welcome
 ---
 # Welcome to Simple DNS Plus Help
 
@@ -15,7 +15,7 @@ DocID: 110
 
 This help file primarily describes the Simple DNS Plus user interface.
 
-More information information about the software and about DNS in general is available in our online knowledge base - <https://simpledns.plus/kb/>
+More information about the software and about DNS in general is available in our online knowledge base - <https://simpledns.plus/kb/>
 
 Support options are available on-line at <https://simpledns.plus/support>
 

@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-nat-ip-alias-conversion
-Keywords: NAT router,NAT to LAN,NAT IP Alias
 DocID: 80
+Keywords: NAT router,NAT to LAN,NAT IP Alias
 ---
 # Options dialog - DNS - NAT IP alias conversion
 

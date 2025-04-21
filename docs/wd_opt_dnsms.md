@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-local-zones-super-masterslave
-Keywords: Master,Slave,Super Master,Super Slave
 DocID: 79
+Keywords: Master,Slave,Super Master,Super Slave
 ---
 # Options dialog - DNS - Local Zones - Super Master/Slave
 

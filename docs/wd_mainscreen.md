@@ -1,7 +1,7 @@
 ---
 Slug: main-window
-Keywords: Main window
 DocID: 72
+Keywords: Main window
 ---
 # Main window
 

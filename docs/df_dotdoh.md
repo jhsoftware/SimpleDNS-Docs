@@ -4,7 +4,7 @@ DocID: 4
 ---
 # Definitions - DNS over TLS (DoT) / DNS over HTTPS (DoH)
 
-Standard DNS queries (UDP/TCP) are sent in plain text, which means anyone "listening" to the network can read them. This is a privacy issue, especially on the first leg between the user device and the resolving DNS server (think coffee shop wifi hotspot).
+Standard DNS queries (UDP/TCP) are sent in plain text, which means anyone "listening" to the network can read them. This is a privacy issue, especially on the first leg between the user device and the resolving DNS server (think coffee shop Wi-Fi hotspot).
 
 DNS over TLS (DoT) / DNS over HTTPS (DoH) encrypt DNS queries and responses - to keep user data private and secure.
 

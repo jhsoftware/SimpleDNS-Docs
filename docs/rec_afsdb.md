@@ -1,7 +1,7 @@
 ---
 Slug: afsdb-records
-Keywords: AFSDB record type,Andrew File System
 DocID: 32
+Keywords: AFSDB record type,Andrew File System
 ---
 # AFSDB-Records (AFS Data Base location)
 

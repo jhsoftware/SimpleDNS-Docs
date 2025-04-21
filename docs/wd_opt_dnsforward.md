@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-forwarding
-Keywords: Forwarding
 DocID: 76
+Keywords: Forwarding
 ---
 # Options dialog - DNS - Forwarding
 

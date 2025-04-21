@@ -1,7 +1,7 @@
 ---
 Slug: definition-ttl-time-to-live
-Keywords: TTL,Time To Live
 DocID: 15
+Keywords: TTL,Time To Live
 ---
 # Definition - TTL (Time To Live)
 
@@ -17,7 +17,7 @@ When deciding on the TTL, you need to consider how often the record will be upda
 
 Because of caching, changes to a DNS record will not reach the entire network until the original TTL has expired - a good reason for setting a short TTL.
 
-However caching helps reduce network traffic. The longer the TTL, the longer the record will live in other DNS server caches around the world, and so fewer requests to the original DNS server are needed - a good reason for setting a long TTL.
+However, caching helps reduce network traffic. The longer the TTL, the longer the record will live in other DNS server caches around the world, and so fewer requests to the original DNS server are needed - a good reason for setting a long TTL.
 
 Generally, for a record pointing to a server/device with a static IP address and no need for quick updates, a TTL value of one day is a good starting point.
 

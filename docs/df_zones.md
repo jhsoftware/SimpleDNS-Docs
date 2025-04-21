@@ -1,7 +1,7 @@
 ---
 Slug: definition-domains-vs-zones
-Keywords: Zones
 DocID: 16
+Keywords: Zones
 ---
 # Definition - Domains vs. Zones
 
@@ -17,6 +17,6 @@ A DNS server could be responsible ([authoritative](df_authoritative.md)) for all
 
 A zone contains exactly one [SOA-record](rec_soa.md) describing the general properties of the zone, and any number of other DNS records.
 
-Entire zones can transferred from a primary DNS server to secondary DNS servers through [Zone Transfers](df_zonetransfer.md).
+Entire zones can be transferred from a primary DNS server to secondary DNS servers through [Zone Transfers](df_zonetransfer.md).
 
 To create a new zone use the [New Zone](wd_newzone.md) function by clicking the "New" button in the [DNS Records window](wd_records.md).

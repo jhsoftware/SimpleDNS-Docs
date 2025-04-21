@@ -1,7 +1,7 @@
 ---
 Slug: dname-records
-Keywords: DNAME record type,Non-Terminal,Name Redirection
 DocID: 38
+Keywords: DNAME record type,Non-Terminal,Name Redirection
 ---
 # DNAME-Records (Non-Terminal DNS Name Redirection)
 

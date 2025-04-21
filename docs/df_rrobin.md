@@ -1,7 +1,7 @@
 ---
 Slug: definition-round-robin
-Keywords: Round robin
 DocID: 12
+Keywords: Round robin
 ---
 # Definition - Round Robin
 

@@ -1,7 +1,7 @@
 ---
 Slug: txt-records
-Keywords: TXT record type,Descriptive text,SPF records
 DocID: 56
+Keywords: TXT record type,Descriptive text,SPF records
 ---
 # TXT-Records (Descriptive text)
 

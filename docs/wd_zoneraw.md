@@ -1,7 +1,7 @@
 ---
 Slug: standard-zone-file-dialog
-Keywords: Standard zone file
 DocID: 108
+Keywords: Standard zone file
 ---
 # Standard zone file dialog
 

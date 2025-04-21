@@ -1,7 +1,7 @@
 ---
 Slug: raw-log-file-format
-Keywords: sdraw,Raw log file format
 DocID: 28
+Keywords: sdraw,Raw log file format
 ---
 # Raw log file format
 

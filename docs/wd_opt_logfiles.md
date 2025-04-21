@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-logging-log-files
-Keywords: Log files,Raw log
 DocID: 93
+Keywords: Log files,Raw log
 ---
 # Options dialog - Logging - Log Files
 
@@ -25,7 +25,7 @@ See [Raw log file format](rawlogformat.md)
 - **HTTP API debugging log files (one file per HTTP request)**\
 When enabled, Simple DNS Plus writes full headers and payload of each HTTP API request to an individual log file.\
 Use this to see the exact details of HTTP API client requests, for debugging purposes.\
-Note that enabling this will potentially create a lot of log files with a lot of data. Therefore this should only be enabled while debugging HTTP API client code.
+Note that enabling this will potentially create a lot of log files with a lot of data. Therefore, this should only be enabled while debugging HTTP API client code.
 
 - **Location of log files**\
 Specify the directory where log files are written.\

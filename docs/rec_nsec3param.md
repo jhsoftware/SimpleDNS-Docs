@@ -1,7 +1,7 @@
 ---
 Slug: nsec3param-records
-Keywords: NSEC3PARAM record type
 DocID: 49
+Keywords: NSEC3PARAM record type
 ---
 # NSEC3PARAM-Records (NSEC3 Parameters)
 

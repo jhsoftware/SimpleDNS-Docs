@@ -1,7 +1,7 @@
 ---
 Slug: dnssec-ds-records-dialog
-Keywords: DNSSEC,DS
 DocID: 65
+Keywords: DNSSEC,DS
 ---
 # DNSSEC DS-records dialog
 

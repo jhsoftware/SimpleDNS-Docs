@@ -1,7 +1,7 @@
 ---
 Slug: how-to-secure-your-server
-Keywords: Security,Spoofing,DNS spoofing,Cache Poisoning,Port scanners,Recursion,DoS (denial of service),Denial of service,BIND version requests,Version requests,DNS rebinding attack,DNS reflection attack,DNS amplification attack
 DocID: 25
+Keywords: Security,Spoofing,DNS spoofing,Cache Poisoning,Port scanners,Recursion,DoS (denial of service),Denial of service,BIND version requests,Version requests,DNS rebinding attack,DNS reflection attack,DNS amplification attack
 ---
 # How to secure your server
 
@@ -44,7 +44,7 @@ Simple DNS Plus has several automatic features to prevent DNS spoofing:
     This prevents a variant of the so-called [birthday attack](http://en.wikipedia.org/wiki/Birthday_attack) where the hacker sends queries for different sub-names and responds without the question section in order to increase his chances.
 
 
-Additionally we recommend that you:
+Additionally, we recommend that you:
 
 1) Use random port numbers for outbound requests (enabled by default). See [Options dialog / DNS / Outbound Requests](wd_opt_dnsout.md) section.
 
@@ -84,7 +84,7 @@ There are many ways to construct DNS requests to achieve amplification (response
 
  - Requests for 'ANY' records for a local domain name.
 
-    Typically such a requests (asking for records of any type) would result in a relatively large DNS response packet listing all the DNS records for the requested name.
+    Typically, such a requests (asking for records of any type) would result in a relatively large DNS response packet listing all the DNS records for the requested name.
 
     Simple DNS Plus has an option to either ignore these requests or force using TCP - see [Options / DNS / Miscellaneous section](wd_opt_dnsmisc.md).
 
@@ -94,7 +94,7 @@ There are many ways to construct DNS requests to achieve amplification (response
 
     The "Do not respond" option is obviously more efficient against this attack, but may also make it harder to troubleshoot other issues in general (why is the DNS server not responding...).
 
-    With the "Refuse" option, it will still send a response but it won't be amplified (response not larger than request) making your server much less interesting as an intermediary for this attack.
+    With the "Refuse" option, it will still send a response, but it won't be amplified (response not larger than request) making your server much less interesting as an intermediary for this attack.
 
     If you notice an ongoing attack of this type with a specific domain name / record type, you can also block it using the Ignore DNS Request [plug-in](pi_overview.md),
 
@@ -148,7 +148,7 @@ The difference between Internet users and other DNS servers is [recursion](df_re
 
 Client applications (users) need the DNS server to perform recursion (fully resolve domain names into IP addresses), whereas other DNS servers perform the recursion themselves.
 
-By specifying only the IP addresses of your own users in the [Options dialog / DNS / Resolver / Recursion](wd_opt_dnsrecur.md) section, you can effectively block outside users, and at the same time allow other DNS servers to requests data for domain names that your are hosting.
+By specifying only the IP addresses of your own users in the [Options dialog / DNS / Resolver / Recursion](wd_opt_dnsrecur.md) section, you can effectively block outside users, and at the same time allow other DNS servers to requests data for domain names that you are hosting.
 
 If you are not restricting recursion, then you are running an "Open DNS Server" (not a good thing).
 
@@ -224,6 +224,6 @@ If your Simple DNS Plus server is accessible from the Internet, and you enable s
 
 Most routers by default filter out any inbound IP packets claiming to be from the standard private IP address ranges (192.168.x.x / 172.16.x.x / 10.x.x.x).
 
-If this is not filtered by the router, a hacker may be able impersonate a trusted local computer by spoofing the origin IP address of the DNS packets, potentially giving him access to change your DNS records.
+If this is not filtered by the router, a hacker may be able to impersonate a trusted local computer by spoofing the origin IP address of the DNS packets, potentially giving him access to change your DNS records.
 
 If you want to receive [dynamic updates](df_dyndns.md) across the Internet, make sure to use [TSIG](df_tsig.md) signed updates only - see [Options dialog / DNS / Local Zones / TSIG Updates section](wd_opt_dnstsig.md).

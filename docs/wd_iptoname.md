@@ -1,7 +1,7 @@
 ---
 Slug: reverse-zone-ip-to-name-mappings-dialog
-Keywords: Reverse Zone Wizard,IP-to-Name Mappings
 DocID: 69
+Keywords: Reverse Zone Wizard,IP-to-Name Mappings
 ---
 # Reverse zone IP-to-Name Mappings dialog
 

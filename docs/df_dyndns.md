@@ -1,7 +1,7 @@
 ---
 Slug: definition-dynamic-dns-update
-Keywords: Dynamic DNS update,TSIG
 DocID: 5
+Keywords: Dynamic DNS update,TSIG
 ---
 # Definition - Dynamic DNS update
 

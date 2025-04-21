@@ -1,7 +1,7 @@
 ---
 Slug: plug-in-instance-dialog
-Keywords: Plug-In instance
 DocID: 99
+Keywords: Plug-In instance
 ---
 # Plug-In Instance dialog
 

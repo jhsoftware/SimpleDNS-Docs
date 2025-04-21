@@ -1,7 +1,7 @@
 ---
 Slug: dns-look-up-window
-Keywords: DNS Look Up,Look Up Window
 DocID: 70
+Keywords: DNS Look Up,Look Up Window
 ---
 # DNS Look Up window
 

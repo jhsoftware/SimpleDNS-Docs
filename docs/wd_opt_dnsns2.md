@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-local-zones-secondary-zones
-Keywords: Secondary,Secondary Zones,Incremental zone transfer,IXFR
 DocID: 81
+Keywords: Secondary,Secondary Zones,Incremental zone transfer,IXFR
 ---
 # Options dialog - DNS - Local Zones - Secondary Zones
 

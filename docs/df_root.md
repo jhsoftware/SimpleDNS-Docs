@@ -1,7 +1,7 @@
 ---
 Slug: definition-root-dns-records
-Keywords: Root DNS Records
 DocID: 11
+Keywords: Root DNS Records
 ---
 # Definition - Root DNS Records
 

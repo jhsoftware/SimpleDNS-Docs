@@ -1,7 +1,7 @@
 ---
 Slug: dns-records-window
-Keywords: DNS Records,Records
 DocID: 102
+Keywords: DNS Records,Records
 ---
 # DNS Records window
 
@@ -15,7 +15,7 @@ The record list (right) shows DNS records in the selected zone.
 
 The optional zone folder list (above or to the left of the zone list) can be used to filter the zone list by zone type or zone group.
 
-To edit the properties of an existing zone (left list) or record (right list), simply double click the item (see [Zone Properties](wd_zoneprop.md) and [Record Properties](wd_recprop.md) dialogs).
+To edit the properties of an existing zone (left list) or record (right list), simply double-click the item (see [Zone Properties](wd_zoneprop.md) and [Record Properties](wd_recprop.md) dialogs).
 
 You can also right-click on a zone, on a record, or in an empty area of either list to quickly access related functions.
 
@@ -29,7 +29,7 @@ The following functions are available in the DNS Records window menu:
 
 - **File menu**
 
-    - **New** (also available from the tool bar)
+    - **New** (also available from the toolbar)
 
         - **New Zone**\
         Opens the [New Zone Wizard](wd_newzone.md).
@@ -40,15 +40,15 @@ The following functions are available in the DNS Records window menu:
         - **New Zone Group**\
         Creates a new zone group in the zone folder pane.
 
-    - **Zone** (also available by right clicking a zone name in the zone list)
+    - **Zone** (also available by right-clicking a zone name in the zone list)
 
-        - **Save records** (also available from the tool bar)\
+        - **Save records** (also available from the toolbar)\
         Saves any changes made to the records of the currently selected zone to disk.
 
         - **Versions...**\
         View, compare, or restore previous versions of the selected zone. Opens the [Zone versions](wd_zoneversions.md) dialog.
 
-        - **DNSSEC** (only available when primary zone is selected) (also available from the tool bar)
+        - **DNSSEC** (only available when primary zone is selected) (also available from the toolbar)
 
             - **Sign...**\
             DNSSEC sign the selected zone. Opens the [DNSSEC Sign Zone dialog](wd_signzone.md).
@@ -134,7 +134,7 @@ The following functions are available in the DNS Records window menu:
     Inverts the current selection of DNS records.
 
     - **Properties**\
-    Opens the [Zone Properties dialog](wd_zoneprop.md) or the [Record Properties dialog](wd_recprop.md) for the currently selected item depending which list (zone or record) has focus.
+    Opens the [Zone Properties dialog](wd_zoneprop.md) or the [Record Properties dialog](wd_recprop.md) for the currently selected item depending on which list (zone or record) has focus.
 
     - **Set TTL**\
     Updates the [TTL](df_ttl.md) value of the currently selected DNS records.
@@ -172,10 +172,10 @@ The following functions are available in the DNS Records window menu:
     - **Find Next Zone**\
     Repeats the last "Find Zone" starting at the current selection in the zone list.
 
-    - **Quick Zone Wizard** (also available from the tool bar)\
+    - **Quick Zone Wizard** (also available from the toolbar)\
     Opens the [Quick Zone Wizard](wd_quickdom.md)
 
-    - **Bulk Update Wizard** (also available from the tool bar)\
+    - **Bulk Update Wizard** (also available from the toolbar)\
     Opens the [Bulk Update Wizard](wd_bulkwiz.md).
 
     - **Check Internet Delegations**\

@@ -1,11 +1,11 @@
 ---
 Slug: how-to-use-the-http-api
-Keywords: HTTP API
 DocID: 21
+Keywords: HTTP API
 ---
 # How to use the HTTP API
 
-Simple DNS Plus includes a HTTP API through which you can perform most of the operations that are available through the GUI.
+Simple DNS Plus includes an HTTP API through which you can perform most of the operations that are available through the GUI.
 
 The HTTP API is [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) based and data is generally exchanged in [JSON](https://en.wikipedia.org/wiki/JSON) format.
 
@@ -25,7 +25,7 @@ If you want to access the HTTP API with javascript running on a web-page, you ne
 
 The HTTP API can be served securely via SSL (https://...). 
 
-The easiest way to setup an SSL certificate for this, is if you are also running an SSL based web-site on IIS on the same computer as Simple DNS Plus, and you configure the HTTP API to be served under the same host name as that site (but under a sub-path). This way you can just manage the SSL certificate in IIS.\
+The easiest way to set up an SSL certificate for this, is if you are also running an SSL based web-site on IIS on the same computer as Simple DNS Plus, and you configure the HTTP API to be served under the same host name as that site (but under a sub-path). This way you can just manage the SSL certificate in IIS.\
 If you are not doing this or if you want to use a different SSL/TLS certificate for the HTTP API, you will need to "bind" an SSL/TLS certificate to the host name (and port) used. There is a "Bind SSL certificate" button in the [Options dialog / HTTP API section](wd_opt_httpapi.md) to do this.
 
 

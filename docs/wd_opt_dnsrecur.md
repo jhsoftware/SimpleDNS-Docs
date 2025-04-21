@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-resolver-recursion
-Keywords: Recursion
 DocID: 84
+Keywords: Recursion
 ---
 # Options dialog - DNS - Resolver - Recursion
 

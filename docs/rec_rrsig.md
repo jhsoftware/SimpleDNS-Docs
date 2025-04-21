@@ -1,7 +1,7 @@
 ---
 Slug: rrsig-records
-Keywords: RRSIG record type
 DocID: 52
+Keywords: RRSIG record type
 ---
 # RRSIG-Records (RRset Signature)
 

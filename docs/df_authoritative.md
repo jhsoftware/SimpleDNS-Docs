@@ -1,7 +1,7 @@
 ---
 Slug: definition-authoritative
-Keywords: Authoritative
 DocID: 1
+Keywords: Authoritative
 ---
 # Definition - Authoritative
 

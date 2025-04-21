@@ -1,7 +1,7 @@
 ---
 Slug: rp-records
-Keywords: RP record type,Responsible person
 DocID: 51
+Keywords: RP record type,Responsible person
 ---
 # RP-Records (Responsible person)
 

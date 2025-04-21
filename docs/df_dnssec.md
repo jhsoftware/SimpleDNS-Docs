@@ -44,7 +44,7 @@ DNSSEC does NOT encrypt or hide anything - all data is still in "clear text". It
 
     [RFC4641](http://www.rfc-editor.org/rfc/rfc4641.txt) (DNSSEC Operational Practices) defines two key types; "Key Signing Key" (KSK) and "Zone Signing Key" (ZSK).
     
-    Typically a zone is signed with both a KSK and a ZSK (or two of either type during rollovers - see below).
+    Typically, a zone is signed with both a KSK and a ZSK (or two of either type during rollovers - see below).
     
     A KSK only signs the public key records (DNSKEY) for a zone.
     KSKs are used as "Secure Entry Points" (SEP), and are referenced in parents zones through a DS-record (see above).
@@ -88,7 +88,7 @@ DNSSEC does NOT encrypt or hide anything - all data is still in "clear text". It
 
 Simple DNS Plus can DNSSEC sign zones, host these DNSSEC signed zones and respond to DNSSEC enabled queries for these zones, and it can automate some of the processes around this (signing zones and updating keys).
 
-However Simple DNS Plus does not request or validate DNSSEC signatures while resolving other Internet domain names. We may add this in a future version, but for now DNSSEC support in Simple DNS Plus is about hosting - not resolving.
+However, Simple DNS Plus does not request or validate DNSSEC signatures while resolving other Internet domain names. We may add this in a future version, but for now DNSSEC support in Simple DNS Plus is about hosting - not resolving.
 
 - **DNSSEC signing**
 
@@ -163,7 +163,7 @@ It is also possible to DNSSEC sign zones and manage DNSSEC keys (on-line keys on
 - To retrieve / update the settings for a zone - including the DNSSEC and auto signing settings:\
   `GET/PUT /zones/{zonename}`
   
-Note that the DNSSEC key information provided through the HTTP API does NOT include the private cryptographic key data of the DNSSEC keys - only meta data about them.
+Note that the DNSSEC key information provided through the HTTP API does NOT include the private cryptographic key data of the DNSSEC keys - only metadata about them.
 
 ## RFCs{#rfc}
 

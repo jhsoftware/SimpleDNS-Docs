@@ -1,7 +1,7 @@
 ---
 Slug: ds-records
-Keywords: DS record type
 DocID: 40
+Keywords: DS record type
 ---
 # DS-Records (Delegation Signer)
 

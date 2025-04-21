@@ -1,7 +1,7 @@
 ---
 Slug: https-records
-Keywords: HTTPS record type,HTTPS Service binding and parameter specification
 DocID: 42
+Keywords: HTTPS record type,HTTPS Service binding and parameter specification
 ---
 # HTTPS-Records (HTTPS Service binding and parameter specification)
 

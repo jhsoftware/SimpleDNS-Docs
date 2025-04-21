@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-lame-requests
-Keywords: Lame DNS Requests,Stealth DNS
 DocID: 77
+Keywords: Lame DNS Requests,Stealth DNS
 ---
 # Options dialog - DNS - Lame Requests
 

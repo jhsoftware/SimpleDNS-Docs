@@ -1,7 +1,7 @@
 ---
 Slug: dnskey-records
-Keywords: DNSKEY record type
 DocID: 39
+Keywords: DNSKEY record type
 ---
 # DNSKEY-Records (DNSSEC public key)
 

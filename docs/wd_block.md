@@ -1,7 +1,7 @@
 ---
 Slug: ip-address-blocking-dialog
-Keywords: IP Address Blocking,Blocking
 DocID: 59
+Keywords: IP Address Blocking,Blocking
 ---
 # IP Address Blocking dialog
 

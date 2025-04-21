@@ -1,7 +1,7 @@
 ---
 Slug: nsec-records
-Keywords: NSEC record type
 DocID: 47
+Keywords: NSEC record type
 ---
 # NSEC-Records (Next Secure)
 

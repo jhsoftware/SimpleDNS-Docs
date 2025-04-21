@@ -1,8 +1,7 @@
 ---
 Slug: new-dnssec-key-dialog
-Keywords: DNSSEC,key
-Notes: was wd_keyset prior to v. 8
 DocID: 63
+Keywords: DNSSEC,key
 ---
 # New DNSSEC Key dialog
 

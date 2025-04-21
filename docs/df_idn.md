@@ -1,7 +1,7 @@
 ---
 Slug: definition-internationalized-domain-names-idns
-Keywords: Internationalize domain names,IDN
 DocID: 8
+Keywords: Internationalize domain names,IDN
 ---
 # Definition - Internationalized domain names (IDNs)
 

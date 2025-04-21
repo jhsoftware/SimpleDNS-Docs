@@ -1,7 +1,7 @@
 ---
 Slug: how-to-integrate-with-other-applications
-Keywords: Integrate,API,Command line,HTTP API
 DocID: 22
+Keywords: Integrate,API,Command line,HTTP API
 ---
 # How to integrate with other applications
 

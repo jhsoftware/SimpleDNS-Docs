@@ -1,7 +1,7 @@
 ---
 Slug: cname-records
-Keywords: CNAME record type,Canonical name,Alias
 DocID: 36
+Keywords: CNAME record type,Canonical name,Alias
 ---
 # CNAME-Records (Canonical name for an alias)
 

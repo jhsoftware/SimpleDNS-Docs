@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-outbound-requests
-Keywords: Outbound Requests,From port number
 DocID: 83
+Keywords: Outbound Requests,From port number
 ---
 # Options dialog - DNS - Outbound Requests
 

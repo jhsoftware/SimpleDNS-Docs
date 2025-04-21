@@ -1,7 +1,7 @@
 ---
 Slug: naptr-records
-Keywords: NAPTR record type,Naming Authority Pointer
 DocID: 45
+Keywords: NAPTR record type,Naming Authority Pointer
 ---
 # NAPTR-Records (Naming Authority Pointer)
 

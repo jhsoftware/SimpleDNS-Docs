@@ -1,7 +1,7 @@
 ---
 Slug: definition-hosts-file
-Keywords: Hosts File
 DocID: 7
+Keywords: Hosts File
 ---
 # Definition - Hosts File
 

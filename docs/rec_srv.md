@@ -1,7 +1,7 @@
 ---
 Slug: srv-records
-Keywords: SRV record type,location of service,LDAP,Directory services
 DocID: 54
+Keywords: SRV record type,location of service,LDAP,Directory services
 ---
 # SRV-Records (location of service)
 

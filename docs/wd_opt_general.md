@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-general
-Keywords: Server name,Traybar Icon,Taskbar Icon
 DocID: 90
+Keywords: Server name,Traybar Icon,Taskbar Icon
 ---
 # Options dialog - General
 

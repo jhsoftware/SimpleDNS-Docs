@@ -1,7 +1,7 @@
 ---
 Slug: mx-records
-Keywords: MX record type,Mail exchange,Mail server
 DocID: 44
+Keywords: MX record type,Mail exchange,Mail server
 ---
 # MX-Records (Mail exchange)
 

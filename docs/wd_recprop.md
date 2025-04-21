@@ -1,7 +1,7 @@
 ---
 Slug: record-properties-dialog
-Keywords: * (Wilcard records),Wildcard records,Records properties
 DocID: 103
+Keywords: * (Wilcard records),Wildcard records,Records properties
 ---
 # Record Properties dialog
 

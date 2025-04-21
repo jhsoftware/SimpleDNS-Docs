@@ -1,7 +1,7 @@
 ---
 Slug: import-wizard
-Keywords: Import Wizard,Migration
 DocID: 68
+Keywords: Import Wizard,Migration
 ---
 # Import Wizard
 

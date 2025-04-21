@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-logging-syslog-server
-Keywords: Syslog
 DocID: 95
+Keywords: Syslog
 ---
 # Options dialog - Logging - Syslog Server
 

@@ -1,7 +1,7 @@
 ---
 Slug: how-to-use-command-line-options
-Keywords: Command line options,DOS prompt
 DocID: 19
+Keywords: Command line options,DOS prompt
 ---
 # How to use command line options
 

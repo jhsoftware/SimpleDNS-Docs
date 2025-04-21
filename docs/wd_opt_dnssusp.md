@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-local-zones-suspended-zones
-Keywords: Suspended Zone
 DocID: 87
+Keywords: Suspended Zone
 ---
 # Options dialog - DNS - Local Zones - Suspended Zones
 

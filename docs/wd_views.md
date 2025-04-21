@@ -1,7 +1,7 @@
 ---
 Slug: main-window-views
-Keywords: Views,Performace Graph,Active Log View,Plug-in View
 DocID: 106
+Keywords: Views,Performance Graph,Active Log View,Plug-in View
 ---
 # Main window - Views
 

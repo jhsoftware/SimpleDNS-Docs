@@ -1,7 +1,7 @@
 ---
 Slug: dnssec-sign-zone-dialog
-Keywords: DNSSEC,Sign zone
 DocID: 104
+Keywords: DNSSEC,Sign zone
 ---
 # DNSSEC Sign Zone dialog
 

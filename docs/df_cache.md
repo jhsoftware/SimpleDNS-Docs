@@ -1,7 +1,7 @@
 ---
 Slug: definition-caching
-Keywords: DNS Cache,Caching
 DocID: 2
+Keywords: DNS Cache,Caching
 ---
 # Definition - Caching
 
@@ -9,7 +9,7 @@ Each time a [recursive](df_recursion.md) DNS request is made to Simple DNS Plus,
 
 The cached DNS records are then used to locate information faster for following DNS requests.
 
-By default, cached DNS records are stored until they time-out based on their [TTL](df_ttl.md).
+By default, cached DNS records are stored until they time out based on their [TTL](df_ttl.md).
 
 Most DNS servers will not cache a DNS record for more than one week. This is also the default in Simple DNS Plus, but you can change this through the "Maximum cache time" option.
 

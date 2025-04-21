@@ -1,7 +1,7 @@
 ---
 Slug: dns-cache-snapshot-window
-Keywords: Cache Snapshot Window,DNS Cache Snapshot
 DocID: 105
+Keywords: Cache Snapshot Window,DNS Cache Snapshot
 ---
 # DNS Cache Snapshot window
 

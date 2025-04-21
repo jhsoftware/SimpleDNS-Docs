@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-logging-active-log-view
-Keywords: Active Log
 DocID: 94
+Keywords: Active Log
 ---
 # Options dialog - Logging - Active Log View
 

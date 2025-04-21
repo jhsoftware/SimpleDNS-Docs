@@ -1,7 +1,7 @@
 ---
 Slug: zone-properties-dialog
-Keywords: SOA record,Zone transfers,Dynamic updates,Zone Properties,DNSSEC
 DocID: 107
+Keywords: SOA record,Zone transfers,Dynamic updates,Zone Properties,DNSSEC
 ---
 # Zone Properties Dialog
 

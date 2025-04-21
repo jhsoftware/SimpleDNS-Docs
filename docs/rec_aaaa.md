@@ -1,7 +1,7 @@
 ---
 Slug: aaaa-records
-Keywords: AAAA record type,IPv6 host address,Host address
 DocID: 31
+Keywords: AAAA record type,IPv6 host address,Host address
 ---
 # AAAA-Records (IPv6 host address)
 

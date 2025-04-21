@@ -1,7 +1,7 @@
 ---
 Slug: ptr-records
-Keywords: PTR record type,Reverse record
 DocID: 50
+Keywords: PTR record type,Reverse record
 ---
 # PTR-Records (domain name pointer)
 

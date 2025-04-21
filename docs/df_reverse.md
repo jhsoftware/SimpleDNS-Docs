@@ -1,7 +1,7 @@
 ---
 Slug: definition-reverse-dns
-Keywords: Reverse Look Up,Reverse Zone,in-addr.arpa,ip6.arpa,arpa,PTR
 DocID: 10
+Keywords: Reverse Look Up,Reverse Zone,in-addr.arpa,ip6.arpa,arpa,PTR
 ---
 # Definition - Reverse DNS
 
@@ -15,11 +15,11 @@ Reverse DNS is mostly used by humans for such things as tracking where a web-sit
 
 Reverse DNS is typically not as critical in as forward DNS - visitors will still reach your web-site just fine without any reverse DNS for your web-server IP or the visitor's IP.
 
-However there is one important exception: Many e-mail servers on the Internet (including AOL's) are configured to reject incoming e-mails from any IP address which does not have reverse DNS.
+However, there is one important exception: Many e-mail servers on the Internet (including AOL's) are configured to reject incoming e-mails from any IP address which does not have reverse DNS.
 
 So if you run your own e-mail server, reverse DNS must exist for the IP address that outgoing e-mail is sent from.
 
-In most cases it does not matter what the reverse DNS record for your IP address points to as long as it is there. If you host multiple domains on one e-mail server, just setup a single reverse DNS record to point to whichever domain name you consider primary.
+In most cases it does not matter what the reverse DNS record for your IP address points to as long as it is there. If you host multiple domains on one e-mail server, just set up a single reverse DNS record to point to whichever domain name you consider primary.
 
 (e-mail servers checking for reverse DNS know that it is normal to host many domains on a single IP address and it would be impossible to list all those domains in reverse DNS for the IP).
 
@@ -47,7 +47,7 @@ If you are assigned the class C network 1.2.3.X, your ISP can delegate DNS autho
 
 Your DNS servers should in this case have a [zone](df_zones.md) called "3.2.1.in-addr.arpa" containing [PTR-records](rec_ptr.md) for all active IP addresses in the class C network (1.2.3.0 - 1.2.3.255).
 
-Simple DNS Plus provides an easy to use [Reverse zone name-to-IP mappings dialog](wd_iptoname.md) which makes it easy to maintain reverse IPv4 zones and records (without dealing with "in-addr.arpa", reversing IP addresses etc.). This is accessible from the bottom of the [DNS Records window](wd_records.md) whenever an IPv4 reverse zone is selected.
+Simple DNS Plus provides an easy-to-use [Reverse zone name-to-IP mappings dialog](wd_iptoname.md) which makes it easy to maintain reverse IPv4 zones and records (without dealing with "in-addr.arpa", reversing IP addresses etc.). This is accessible from the bottom of the [DNS Records window](wd_records.md) whenever an IPv4 reverse zone is selected.
 
 It is also possible to delegate "in-addr.arpa" authority for less than one class C network (256 IP addresses).
 

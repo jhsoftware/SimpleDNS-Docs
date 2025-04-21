@@ -1,7 +1,7 @@
 ---
 Slug: soa-records
-Keywords: SOA record type,Start of authority,Serial number,Refresh interval,Retry interval,Expire interval,Minimum TTL
 DocID: 53
+Keywords: SOA record type,Start of authority,Serial number,Refresh interval,Retry interval,Expire interval,Minimum TTL
 ---
 # SOA-Records (Start of authority)
 

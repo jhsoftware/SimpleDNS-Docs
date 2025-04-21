@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-miscellaneous
-Keywords: Miscellaneous,NOTIFY requests,Root server list,Hints file,EDNS0,BIND version requests
 DocID: 78
+Keywords: Miscellaneous,NOTIFY requests,Root server list,Hints file,EDNS0,BIND version requests
 ---
 # Options dialog - DNS - Miscellaneous
 

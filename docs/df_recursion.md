@@ -1,7 +1,7 @@
 ---
 Slug: definition-recursion
-Keywords: Recursion,Recursive,Non-recursive,Resolution,DNS Recursion,DNS Resolution
 DocID: 9
+Keywords: Recursion,Recursive,Non-recursive,Resolution,DNS Recursion,DNS Resolution
 ---
 # Definition - Recursion
 
@@ -9,7 +9,7 @@ DNS requests can either be "recursive" or "non-recursive".
 
 Client applications (such as Internet browsers) request that the DNS server performs recursion for them by setting an RD (Recursion Desired) flag in the request packet. This is a recursive request.
 
-Client applications do this both because they do not posses the ability to resolve domain names themselves, and also to take advantage of centralized [caching](df_cache.md) on the DNS server.
+Client applications do this both because they do not possess the ability to resolve domain names themselves, and also to take advantage of centralized [caching](df_cache.md) on the DNS server.
 
 However, when a DNS server sends requests to other DNS servers as part of the recursion process, these requests are typically non-recursive (the RD flag is not set).
 
@@ -27,4 +27,4 @@ So it is important to configure Simple DNS Plus to only offer recursion to trust
 
 You can configure this in the [Options dialog / DNS / Resolver / Recursion](wd_opt_dnsrecur.md) section.
 
-NOTE: For programs like browsers and e-mail clients to work, they must have access to a DNS server that offers recursion. Therefore local computers (including the server itself) should always be offered recursion.
+NOTE: For programs like browsers and e-mail clients to work, they must have access to a DNS server that offers recursion. Therefore, local computers (including the server itself) should always be offered recursion.

@@ -1,7 +1,7 @@
 ---
 Slug: hinfo-records
-Keywords: HINFO record type,Host information
 DocID: 41
+Keywords: HINFO record type,Host information
 ---
 # HINFO-Records (Host information)
 

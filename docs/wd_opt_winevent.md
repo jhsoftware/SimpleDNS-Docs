@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-logging-windows-event-log
-Keywords: Windows event log,Event log
 DocID: 97
+Keywords: Windows event log,Event log
 ---
 # Options dialog - Logging - Windows Event Log
 

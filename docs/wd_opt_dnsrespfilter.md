@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-resolver-ip-filtering
-Keywords: Response filtering,DNS rebinding attack
 DocID: 86
+Keywords: Response filtering,DNS rebinding attack
 ---
 # Options dialog - DNS - Resolver - IP Filtering
 

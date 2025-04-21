@@ -1,7 +1,7 @@
 ---
 Slug: plug-ins-overview
-Keywords: Plug-Ins
 DocID: 27
+Keywords: Plug-Ins
 ---
 # Plug-Ins Overview
 

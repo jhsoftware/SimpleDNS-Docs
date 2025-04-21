@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-local-zones-zone-transfers
-Keywords: Zone transfers
 DocID: 89
+Keywords: Zone transfers
 ---
 # Options dialog - DNS - Local Zones - Zone Transfers
 
@@ -11,7 +11,7 @@ Zone transfer permissions can also be specified for each individual zone in the 
 
 - **Accept un-signed zone transfer requests for any zone on this server**\
 The IP addresses listed here are allowed to request [zone transfers](df_zonetransfer.md) for any zone hosted on this server.\
-Zone transfer permissions can also be specified for each individual zone in the [Zone Properties](wd_zoneprop.md) dialog. However the IP addresses listed here can always zone transfer no matter what the settings are in the individual zones.
+Zone transfer permissions can also be specified for each individual zone in the [Zone Properties](wd_zoneprop.md) dialog. However, the IP addresses listed here can always zone transfer no matter what the settings are in the individual zones.
 
 - **Send only one DNS record per message (older BIND secondary servers)**\
 This option should only be enabled if one or more of the zones on the server has an old BIND server as secondary which doesn't understand zone transfer messages with multiple DNS records.\

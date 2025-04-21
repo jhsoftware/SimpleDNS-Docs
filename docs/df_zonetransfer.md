@@ -1,7 +1,7 @@
 ---
 Slug: definition-zone-transfer
-Keywords: Zone Transfers,Synchronize
 DocID: 17
+Keywords: Zone Transfers,Synchronize
 ---
 # Definition - Zone Transfer
 
@@ -35,7 +35,7 @@ A standard (full) zone transfer transfers all the records in the zone from the p
 
 Simple DNS Plus also supports an optimized "incremental zone transfer" method which saves bandwidth by only transferring changes made since the last zone transfer, and by using UDP packets instead of TCP.
 
-By default Simple DNS Plus will request incremental zone transfers when getting zone updates. If the primary server does not support this and returns an error, Simple DNS Plus will then revert to doing a full zone transfer.
+By default, Simple DNS Plus will request incremental zone transfers when getting zone updates. If the primary server does not support this and returns an error, Simple DNS Plus will then revert to doing a full zone transfer.
 
 If you know that your primary DNS server does not support incremental zone transfers, you can prevent Simple DNS Plus from using this with a setting in the [Options dialog / DNS / Local Zones / Secondary Zones section](wd_opt_dnsns2.md).
 
@@ -45,6 +45,6 @@ You obviously have to configure your primary DNS server to accept zone transfer 
 
 This can be done by using [TSIG signatures](df_tsig.md) or by configuring which IP addresses to accept un-signed zone transfer requests from, either in the [Zone Properties dialog](wd_zoneprop.md) for each individual [zone](df_zones.md), or in the [Options dialog / DNS / Local Zones / Zone Transfers section](wd_opt_dnszt.md) for all zones.
 
-Using TSIG signatures is more secure and is recommend over limiting access by IP address, because IP addresses can be spoofed. Incremental zone transfers over UDP are particularly vulnerable to IP address spoofing.
+Using TSIG signatures is more secure and is recommended over limiting access by IP address, because IP addresses can be spoofed. Incremental zone transfers over UDP are particularly vulnerable to IP address spoofing.
 
 See also: [How to setup primary / secondary](ht_primsec.md)

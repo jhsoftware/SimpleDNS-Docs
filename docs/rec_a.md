@@ -1,7 +1,7 @@
 ---
 Slug: a-records
-Keywords: A record type,Host address,IPv4 host address
 DocID: 30
+Keywords: A record type,Host address,IPv4 host address
 ---
 # A-Records (Host address)
 

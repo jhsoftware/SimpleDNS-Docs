@@ -1,7 +1,7 @@
 ---
 Slug: tlsa-records
-Keywords: TLSA record type
 DocID: 55
+Keywords: TLSA record type
 ---
 # TLSA-Records (Transport Layer Security Authentication)
 

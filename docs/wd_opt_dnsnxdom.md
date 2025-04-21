@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-dns-non-existing-domains
-Keywords: NXDOMAIN redirect,Non-existing domains
 DocID: 82
+Keywords: NXDOMAIN redirect,Non-existing domains
 ---
 # Options dialog - DNS - Non-existing Domains
 

@@ -1,11 +1,11 @@
 ---
 Slug: definition-suspended-zone
-Keywords: Suspended Zone
 DocID: 13
+Keywords: Suspended Zone
 ---
 # Definition - Suspended Zone
 
-Suspending a zone allows you to temporarily stop serving data for a a [zone](df_zones.md) without deleting the zone.
+Suspending a zone allows you to temporarily stop serving data for a [zone](df_zones.md) without deleting the zone.
 
 This can be useful for example if you are hosting the domain name for someone else, and they forgot to pay the bill...
 

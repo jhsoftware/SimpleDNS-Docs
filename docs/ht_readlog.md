@@ -1,7 +1,7 @@
 ---
 Slug: how-to-read-the-log
-Keywords: Log,Error messages,Warning messages,Header messages
 DocID: 24
+Keywords: Log,Error messages,Warning messages,Header messages
 ---
 # How to read the log
 

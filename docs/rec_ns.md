@@ -1,7 +1,7 @@
 ---
 Slug: ns-records
-Keywords: NS record type,Name server record
 DocID: 46
+Keywords: NS record type,Name server record
 ---
 # NS-Records (Authoritative name server)
 

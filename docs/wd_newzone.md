@@ -1,7 +1,7 @@
 ---
 Slug: new-zone-wizard
-Keywords: New Zone Wizard,Zone
 DocID: 73
+Keywords: New Zone Wizard,Zone
 ---
 # New Zone Wizard
 

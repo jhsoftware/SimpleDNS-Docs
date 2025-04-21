@@ -1,7 +1,7 @@
 ---
 Slug: how-to-setup-primary-secondary
-Keywords: Primary,Secondary
 DocID: 23
+Keywords: Primary,Secondary
 ---
 # How to setup primary / secondary
 
@@ -17,7 +17,7 @@ This may seem a little silly - especially if you run your DNS, web, and mail ser
 
 But many registrars (companies that register domain names) still require at least 2 DNS servers.
 
-This requirement has been somewhat relaxed lately, and depending which registrar you use, you may only need to specify one DNS server.
+This requirement has been somewhat relaxed lately, and depending on which registrar you use, you may only need to specify one DNS server.
 
 NOTE: If your registrar lets you use only one DNS server, some DNS testing tools may still flag this as an error.
 

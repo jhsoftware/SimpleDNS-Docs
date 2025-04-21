@@ -1,7 +1,7 @@
 ---
 Slug: loc-records
-Keywords: LOC record type,Location information,GPS
 DocID: 43
+Keywords: LOC record type,Location information,GPS
 ---
 # LOC-Records (Location information)
 

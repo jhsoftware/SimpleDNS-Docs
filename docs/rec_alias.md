@@ -1,7 +1,7 @@
 ---
 Slug: alias-records
-Keywords: ALIAS record type
 DocID: 33
+Keywords: ALIAS record type
 ---
 # ALIAS-Records (Auto Resolved Alias)
 

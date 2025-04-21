@@ -1,7 +1,7 @@
 ---
 Slug: definition-forwarding
-Keywords: Forwarding,DNS forwarding,Extended forwarding,Shadow forwarding,Conditional forwarding
 DocID: 6
+Keywords: Forwarding,DNS forwarding,Extended forwarding,Shadow forwarding,Conditional forwarding
 ---
 # Definition - Forwarding
 
@@ -17,7 +17,7 @@ You can configure Simple DNS Plus to use forwarding for all domain names and/or 
 
 You can use forwarding for all domain names, for example, if you have multiple local DNS servers and wish to build up a central [cache](df_cache.md) on one or a few DNS servers, thereby limiting the DNS traffic sent over your Internet connection.
 
-In this case you would setup one (or a few) DNS servers (the central servers) to do normal resolution with no forwarding, and setup the remaining DNS servers to forward requests for all domains to these central servers.
+In this case you would set up one (or a few) DNS servers (the central servers) to do normal resolution with no forwarding, and set up the remaining DNS servers to forward requests for all domains to these central servers.
 
 IMPORTANT: We have noticed that for no apparent reason many users have configured Simple DNS Plus (and other DNS servers) to forward DNS requests for all domain names to their ISP's DNS servers.
 
@@ -53,10 +53,10 @@ There are several scenarios in which you might want to do this, for example:
 
  - You are hosting some or all of your DNS data on a separate DNS server which you don't want to expose directly to the Internet (for example; if you have to use some other DNS software with known vulnerabilities). Simple DNS Plus will only forward standard DNS requests, only for the specified domain name, and it automatically filters out most malformed data.
 
-In all 3 scenarios, you can setup Simple DNS Plus on a computer with both a private IP address and a public IP address (or with a public IP address NAT mapped to it), setup the other DNS server on an private IP address only, and configure Simple DNS Plus to use extended forwarding for domains hosted on the other DNS server.
+In all 3 scenarios, you can set up Simple DNS Plus on a computer with both a private IP address and a public IP address (or with a public IP address NAT mapped to it), set up the other DNS server on a private IP address only, and configure Simple DNS Plus to use extended forwarding for domains hosted on the other DNS server.
 
 ## Shadow Forwarding
 
 Standard DNS forwarding only forwards request which are not for the name or sub-name of a local DNS zone.
 
-However Simple DNS Plus also has a unique "shadow forwarding" option which, when enabled, causes DNS requests for the name or sub-name of a local DNS zone to also be forwarded when no matching DNS records exist in that zone.
+However, Simple DNS Plus also has a unique "shadow forwarding" option which, when enabled, causes DNS requests for the name or sub-name of a local DNS zone to also be forwarded when no matching DNS records exist in that zone.

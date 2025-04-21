@@ -1,7 +1,7 @@
 ---
 Slug: options-dialog-logging-log-details
-Keywords: Log details
 DocID: 92
+Keywords: Log details
 ---
 # Options dialog - Logging - Log Details
 

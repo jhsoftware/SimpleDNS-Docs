@@ -1,7 +1,7 @@
 ---
 Slug: bulk-update-wizard
-Keywords: Find and replace IP,Replace IP,Promote server,Bulk Update Wizard
 DocID: 60
+Keywords: Find and replace IP,Replace IP,Promote server,Bulk Update Wizard
 ---
 # Bulk Update Wizard
 

@@ -1,7 +1,7 @@
 ---
 Slug: dns-look-up-window-look-up-types
-Keywords: Look Up Types
 DocID: 71
+Keywords: Look Up Types
 ---
 # DNS Look Up Window - Look Up Types
 

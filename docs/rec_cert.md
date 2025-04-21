@@ -1,7 +1,7 @@
 ---
 Slug: cert-records
-Keywords: CERT record type
 DocID: 35
+Keywords: CERT record type
 ---
 # CERT-Records (Certificate / CRL)
 
