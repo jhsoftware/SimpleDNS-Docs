@@ -19,8 +19,7 @@ This could be "mail.example.com" or someone else's mail server like "mail.isp.co
 
 After this it looks up the [A-record](rec_a.md) for that e-mail server name to connect to its IP-address.
 
-> [!YELLOW] **Important**
->
+> [!IMPORTANT]
 > An MX-record must point to the name of a mail server - not directly to the IP-address.\
 > Because of this, it is very important that an [A-record](rec_a.md) for the referenced mail server name exists (not necessarily on your DNS server, but wherever it belongs), otherwise there may not be any way to connect to that e-mail server.
 

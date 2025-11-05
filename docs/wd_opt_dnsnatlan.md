@@ -33,8 +33,7 @@ Even if this does work, you are putting unnecessary load on the router.
 
 A "NAT Router" can be a physical device such as those from Cisco, Linksys, DLink, NetGear, etc., or a computer running "Internet Connection Sharing" or similar.
 
-> [!BLUE] **Note**
->
+> [!NOTE]
 > This function is for use with network setups with one or more external/public IP addresses on a NAT router mapped to internal server(s) on private IP addresses.
 >
 > This only works with **one-to-one IP address mappings** - each external/public IP address can only be mapped to a single internal/private IP address.

@@ -46,8 +46,7 @@ A TSIG key consists of a key name, a signing algorithm, and a secret:
 
     Using a pass phrase based value makes it easier to copy the key to a client application or another server which has the same function, but it also potentially makes the secret easier to guess.
 
-> [!YELLOW] **Important**
->
+> [!IMPORTANT]
 > To prevent "replay attacks" TSIG signatures are time stamped and only valid within a short time window (usually +/- 5 minutes). It is therefore critical that both client and server have the correct time. This is best achieved using automatic periodic time synchronization against an Internet time server - which is enabled by default on newer Windows versions, but may require special configuration or software on older Windows versions and other operating systems.\
 > Also make sure that the correct time zone is configured on both computers since the TSIG time stamp is based on UTC time (= local time +/- time zone).
 

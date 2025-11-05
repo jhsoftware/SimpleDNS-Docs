@@ -22,8 +22,7 @@ Select one of the following options to specify how/if Simple DNS Plus should res
     Using this option, you can redirect the client to a sign up page, or to a page informing the client that he is using a wrong DNS server.
 
 
-> [!BLUE] **What is a "lame DNS request?**
->
+> [!NOTE]
 > A lame DNS request, is a DNS request sent to a DNS server which is not configured with the requested domain name (local [zones](df_zones.md) or otherwise), and where either:\
 > a) recursion is not requested (RD flag not set in request), or\
 > b) the receiving DNS server is not configured to perform [recursion](df_recursion.md) for client (typically based on the IP address of the client IP).

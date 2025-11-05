@@ -48,12 +48,10 @@ This option redirects all [recursive](df_recursion.md) DNS requests for non-exis
 
 This gives you a unique opportunity to present your own custom search page, a domain sale offer, a marketing message, an intranet site, or anything else you can think of.
 
-> [!YELLOW] **Warning**
->
+> [!WARNING]
 >This function redirects **ALL** DNS requests for non-existing domain names (it is not possible for the DNS server to tell if a DNS request comes from a browser or another type of application), so you may need to use the exceptions options to limit this.
 >
 > For example you may want to setup an exception for the IP address of your e-mail server so it won't try to deliver (otherwise failed) e-mails to your web-server's IP address.
 
-> [!BLUE] **Note**
->
+> [!NOTE]
 > Only requests which are for domain names confirmed not to exist (NXDOMAIN) will be redirected - not any other error type conditions.
